@@ -6,7 +6,7 @@ layout: default
 Usuarios y contraseñas adquiridas:
 
 1. NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
-2. <rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi>
+2. rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
 3. aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
 4. 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
 5. lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
@@ -21,7 +21,7 @@ Usuarios y contraseñas adquiridas:
 14. ED25519 key fingerprint is SH.256:C2ihUBV7ihnV1wUXRb4RrEcLfXC5CXlhmAAM/urerLY.
 15. jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt
 16. JQttfApK4SeyHwDlI9SXGR50qclOAil1
-17. 
+17. Clave SSH:
 ```
             -----BEGIN RSA PRIVATE KEY-----
     MIIEogIBAAKCAQEAvmOkuifmMg6HL2YPIOjon6iWfbp7c3jx34YkYWqUH57SUdyJ
