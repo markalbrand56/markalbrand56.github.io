@@ -14,12 +14,8 @@ A personal tool to automate the ingest of media from an SD card to my computer.
     <li><a href="https://github.com/markalbrand56/Automated_Media_Ingest">Repository for Automated Media Ingest</a> </li>
 </ul>
 
-## My Blog
-<ul>
-    {% for post in site.posts %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-</ul>
+## UVG
+
 
 ## Get in touch
 <ul>
