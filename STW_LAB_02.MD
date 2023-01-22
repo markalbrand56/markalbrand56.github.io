@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Sistemas y Tecnología Web
 ---
 
 # Laboratorio 2: Administración de servidores remotos
