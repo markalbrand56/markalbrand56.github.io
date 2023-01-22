@@ -6,23 +6,23 @@ title: Sistemas y Tecnología Web
 # Laboratorio 2: Administración de servidores remotos
 Usuarios y contraseñas adquiridas:
 
-1. NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
-2. rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
-3. aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
-4. 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
-5. lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
-6. P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
-7. z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
-8. TESKZC0XvTetK0S9xNwm25STk5iWrBvP
-9. EN632PlfYiZbn3PhVK3XOGSlNInNE00t
-10. G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s
-11. 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM
-12. JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv
-13. wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw
-14. ED25519 key fingerprint is SH.256:C2ihUBV7ihnV1wUXRb4RrEcLfXC5CXlhmAAM/urerLY.
-15. jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt
-16. JQttfApK4SeyHwDlI9SXGR50qclOAil1
-17. Clave SSH:
+1. bandit1: NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
+2. bandit2: rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
+3. bandit3: aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
+4. bandit4: 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
+5. bandit5: lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
+6. bandit6: P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
+7. bandit7: z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
+8. bandit8: TESKZC0XvTetK0S9xNwm25STk5iWrBvP
+9. bandit9: EN632PlfYiZbn3PhVK3XOGSlNInNE00t
+10. bandit10: G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s
+11. bandit11: 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM
+12. bandit12: JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv
+13. bandit13: wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw
+14. bandit14: ED25519 key fingerprint is SH.256:C2ihUBV7ihnV1wUXRb4RrEcLfXC5CXlhmAAM/urerLY.
+15. bandit15: jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt
+16. bandit16: JQttfApK4SeyHwDlI9SXGR50qclOAil1
+17. bandit17: Clave SSH:
 ```
             -----BEGIN RSA PRIVATE KEY-----
     MIIEogIBAAKCAQEAvmOkuifmMg6HL2YPIOjon6iWfbp7c3jx34YkYWqUH57SUdyJ
@@ -52,6 +52,6 @@ Usuarios y contraseñas adquiridas:
     vBgsyi/sN3RqRBcGU40fOoZyfAMT8s1m/uYv52O6IgeuZ/ujbjY=
     -----END RSA PRIVATE KEY-----
 ```
-18. hga5tuuCLF6fFzUpnagiMN8ssu9LFrdg
-19. awhqfNnAbc1naukrpqDYcF95h7HoMTrC
-20. VxCazJaVykI6W36BkBU0mJTCM8rR95XT
+18. bandit18: hga5tuuCLF6fFzUpnagiMN8ssu9LFrdg
+19. bandit19: awhqfNnAbc1naukrpqDYcF95h7HoMTrC
+20. bandit20: VxCazJaVykI6W36BkBU0mJTCM8rR95XT
